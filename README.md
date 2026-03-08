@@ -1,4 +1,4 @@
-# Self-healing-Architecture-
+
 # Self-Healing Architecture 🏗️
 
 A fully automated, self-healing web application infrastructure on AWS, provisioned with Terraform.
